@@ -6,7 +6,7 @@
 
 **Repositório:** https://github.com/carolanely/assistente-lgpd-rag  
 
-**Vídeo demo:** 
+**Vídeo demo:** https://www.loom.com/share/648dc066fef6468cbbdaa9d116bd7370
 
 ![Demo placeholder](docs/demo-placeholder.png)
 
