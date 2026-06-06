@@ -2,9 +2,9 @@
 
 > Assistente com IA generativa para responder perguntas sobre LGPD usando RAG, citações por página, tool-use para artigos legais, cache e roteamento de modelo.
 
-**Live demo:** cole aqui o link do Streamlit Cloud depois do deploy.  
-**Repositório:** cole aqui o link público do GitHub.  
-**Vídeo demo:** cole aqui o link do vídeo de até 3 minutos.
+**Live demo:** https://assistente-lgpd-rag.streamlit.app/ 
+**Repositório:** https://github.com/carolanely/assistente-lgpd-rag  
+**Vídeo demo:** 
 
 ![Demo placeholder](docs/demo-placeholder.png)
 
